@@ -1,0 +1,13 @@
+{
+  "name": "studentapi",
+  "version": "1.0.0",
+  "description": "simple REST API to examine HTTP methods",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
