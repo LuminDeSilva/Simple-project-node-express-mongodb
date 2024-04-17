@@ -1,0 +1,13 @@
+{
+  "name": "mystudentapp",
+  "version": "1.0.0",
+  "description": "a simple CRUD rest api to manage students details",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
